@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Lambda build packages
+*.zip
+
+# Local config
+.env
+*.env
+
+# macOS system files
+.DS_Store
+
+# VS Code workspace settings
+.vscode/
+
