@@ -9,6 +9,25 @@ A fully serverless URL shortener built using **AWS Lambda**, **API Gateway**, an
 
 ## 📐 Architecture Overview
 
+## 📊 Monitoring Dashboard
+
+### CloudWatch Metrics for POST /create
+
+![CloudWatch Dashboard](cloudwatch/Screenshot\ 2025-04-18\ at\ 6.04.11\ PM.png)
+
+---
+
+## 🧪 API Testing with Postman
+
+### Create Short URL via POST
+
+![Postman Request Setup](cloudwatch/Screenshot\ 2025-04-18\ at\ 3.01.57\ PM.png)
+
+### Postman Collection View
+
+![Postman Collection](cloudwatch/Screenshot\ 2025-04-18\ at\ 3.02.46\ PM.png)
+
+
 
 
 
