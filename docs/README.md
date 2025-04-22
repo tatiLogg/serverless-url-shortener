@@ -18,7 +18,8 @@ This folder contains supporting documentation and images related to the **Server
 ---
 
 ### 📝 Medium Article
-📖 [Read the Full Walkthrough on Medium](https://www.medium.com/@tati.fluffy) *(replace with full link when published)*
+📖 📖 [Read the Full Walkthrough on Medium](https://medium.com/@tati.fluffy/building-a-serverless-url-shortener-with-aws-lambda-api-gateway-and-cloudwatch-monitoring-dbc10e016b3f)
+
 
 ---
 
